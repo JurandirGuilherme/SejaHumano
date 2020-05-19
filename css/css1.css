@@ -1,0 +1,75 @@
+body {
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+
+}
+h1,h2,h3 {
+	margin: 0;
+	font-family: "Roboto";
+	font-weight: 700;
+}
+nav {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.opções {
+	font-size: 17px;
+	padding-right: 30px;
+}
+.opções ul li{
+    margin-left: 10px;
+	display: inline-block;
+	font-weight: 700;
+	color: #30ace0;
+}
+.opções ul li a {
+	text-decoration: none;
+}
+.opções ul li a:hover {
+	text-decoration: underline;
+}
+header h1
+{
+	font-size: 25px;
+
+}
+header {
+	padding: 30px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-image: url('../img/discri.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	align-items: center;
+}
+header p {
+	width: 500px;
+	
+}
+section h2 {
+
+	padding: 20px;
+	color: #30ace0;
+	font-weight: 700;
+
+}
+.video2 {
+	padding: 20px;
+}
+article h2 {
+	padding: 20px;
+	color: #30ace0;
+	font-weight: 700;
+}
+article h3 {
+	font-size: 20px;
+}
+ article .img2
+ {
+	padding: 30px;
+}
+article p {
+	font-family: "roboto", Arial;
+}
